@@ -1,5 +1,3 @@
-# miscellaneous
-
 # Pyspark installation in GCP depends on following commands
 1) Go to Terminal
 2) sudo apt-get update
