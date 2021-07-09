@@ -1,0 +1,2 @@
+1) ridge and lasso
+https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/
